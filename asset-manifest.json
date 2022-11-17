@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/demowebapptelegram/static/css/main.a0e612ed.css",
-    "main.js": "/demowebapptelegram/static/js/main.d39d8d9c.js",
+    "main.css": "/demowebapptelegram/static/css/main.c29698a3.css",
+    "main.js": "/demowebapptelegram/static/js/main.b3373521.js",
     "static/js/787.66c93ffb.chunk.js": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js",
     "static/media/pizza.png": "/demowebapptelegram/static/media/pizza.88bc8f17900fbfc6ad49.png",
     "static/media/dripper.png": "/demowebapptelegram/static/media/dripper.427b3fae78ac94a38f7a.png",
@@ -13,12 +13,12 @@
     "static/media/fried-egg.png": "/demowebapptelegram/static/media/fried-egg.bcbc53ccc1862f4b9633.png",
     "static/media/french-fries.png": "/demowebapptelegram/static/media/french-fries.08a5df9a988b16e2d6c3.png",
     "index.html": "/demowebapptelegram/index.html",
-    "main.a0e612ed.css.map": "/demowebapptelegram/static/css/main.a0e612ed.css.map",
-    "main.d39d8d9c.js.map": "/demowebapptelegram/static/js/main.d39d8d9c.js.map",
+    "main.c29698a3.css.map": "/demowebapptelegram/static/css/main.c29698a3.css.map",
+    "main.b3373521.js.map": "/demowebapptelegram/static/js/main.b3373521.js.map",
     "787.66c93ffb.chunk.js.map": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0e612ed.css",
-    "static/js/main.d39d8d9c.js"
+    "static/css/main.c29698a3.css",
+    "static/js/main.b3373521.js"
   ]
 }
