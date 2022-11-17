@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/demowebapptelegram/static/css/main.5a95e976.css",
-    "main.js": "/demowebapptelegram/static/js/main.72aea981.js",
+    "main.css": "/demowebapptelegram/static/css/main.a0e612ed.css",
+    "main.js": "/demowebapptelegram/static/js/main.d39d8d9c.js",
     "static/js/787.66c93ffb.chunk.js": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js",
+    "static/media/pizza.png": "/demowebapptelegram/static/media/pizza.88bc8f17900fbfc6ad49.png",
+    "static/media/dripper.png": "/demowebapptelegram/static/media/dripper.427b3fae78ac94a38f7a.png",
+    "static/media/noodles.png": "/demowebapptelegram/static/media/noodles.a2e2c96b62ca3f9f0b5d.png",
+    "static/media/spaghetti.png": "/demowebapptelegram/static/media/spaghetti.fccf0c20fce2ed83fc44.png",
+    "static/media/chicken.png": "/demowebapptelegram/static/media/chicken.63511544133fc38363c6.png",
+    "static/media/kebab.png": "/demowebapptelegram/static/media/kebab.36ff0c927dcb34a9d158.png",
+    "static/media/burger.png": "/demowebapptelegram/static/media/burger.de1f69d430730cd25932.png",
+    "static/media/fried-egg.png": "/demowebapptelegram/static/media/fried-egg.bcbc53ccc1862f4b9633.png",
+    "static/media/french-fries.png": "/demowebapptelegram/static/media/french-fries.08a5df9a988b16e2d6c3.png",
     "index.html": "/demowebapptelegram/index.html",
-    "main.5a95e976.css.map": "/demowebapptelegram/static/css/main.5a95e976.css.map",
-    "main.72aea981.js.map": "/demowebapptelegram/static/js/main.72aea981.js.map",
+    "main.a0e612ed.css.map": "/demowebapptelegram/static/css/main.a0e612ed.css.map",
+    "main.d39d8d9c.js.map": "/demowebapptelegram/static/js/main.d39d8d9c.js.map",
     "787.66c93ffb.chunk.js.map": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a95e976.css",
-    "static/js/main.72aea981.js"
+    "static/css/main.a0e612ed.css",
+    "static/js/main.d39d8d9c.js"
   ]
 }
