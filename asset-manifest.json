@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/demowebapptelegram/static/css/main.a285acd6.css",
-    "main.js": "/demowebapptelegram/static/js/main.99c69b53.js",
+    "main.css": "/demowebapptelegram/static/css/main.7dce657d.css",
+    "main.js": "/demowebapptelegram/static/js/main.0ec82407.js",
     "static/js/787.66c93ffb.chunk.js": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js",
     "static/media/drink.gif": "/demowebapptelegram/static/media/drink.c23fa7d646d669430fee.gif",
     "static/media/donut.gif": "/demowebapptelegram/static/media/donut.cca012588c96480e3c72.gif",
@@ -22,12 +22,12 @@
     "static/media/drink.png": "/demowebapptelegram/static/media/drink.38938d75055dc1351e3d.png",
     "static/media/pancakes.png": "/demowebapptelegram/static/media/pancakes.68d3b0fd2d3942e6fd1f.png",
     "index.html": "/demowebapptelegram/index.html",
-    "main.a285acd6.css.map": "/demowebapptelegram/static/css/main.a285acd6.css.map",
-    "main.99c69b53.js.map": "/demowebapptelegram/static/js/main.99c69b53.js.map",
+    "main.7dce657d.css.map": "/demowebapptelegram/static/css/main.7dce657d.css.map",
+    "main.0ec82407.js.map": "/demowebapptelegram/static/js/main.0ec82407.js.map",
     "787.66c93ffb.chunk.js.map": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a285acd6.css",
-    "static/js/main.99c69b53.js"
+    "static/css/main.7dce657d.css",
+    "static/js/main.0ec82407.js"
   ]
 }
