@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/demowebapptelegram/static/css/main.ad9471f7.css",
-    "main.js": "/demowebapptelegram/static/js/main.6c6700d8.js",
+    "main.css": "/demowebapptelegram/static/css/main.a285acd6.css",
+    "main.js": "/demowebapptelegram/static/js/main.99c69b53.js",
     "static/js/787.66c93ffb.chunk.js": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js",
-    "static/media/pizza.png": "/demowebapptelegram/static/media/pizza.88bc8f17900fbfc6ad49.png",
-    "static/media/dripper.png": "/demowebapptelegram/static/media/dripper.427b3fae78ac94a38f7a.png",
-    "static/media/noodles.png": "/demowebapptelegram/static/media/noodles.a2e2c96b62ca3f9f0b5d.png",
-    "static/media/spaghetti.png": "/demowebapptelegram/static/media/spaghetti.fccf0c20fce2ed83fc44.png",
-    "static/media/chicken.png": "/demowebapptelegram/static/media/chicken.63511544133fc38363c6.png",
-    "static/media/kebab.png": "/demowebapptelegram/static/media/kebab.36ff0c927dcb34a9d158.png",
-    "static/media/burger.png": "/demowebapptelegram/static/media/burger.de1f69d430730cd25932.png",
-    "static/media/fried-egg.png": "/demowebapptelegram/static/media/fried-egg.bcbc53ccc1862f4b9633.png",
-    "static/media/french-fries.png": "/demowebapptelegram/static/media/french-fries.08a5df9a988b16e2d6c3.png",
+    "static/media/drink.gif": "/demowebapptelegram/static/media/drink.c23fa7d646d669430fee.gif",
+    "static/media/donut.gif": "/demowebapptelegram/static/media/donut.cca012588c96480e3c72.gif",
+    "static/media/noodle.gif": "/demowebapptelegram/static/media/noodle.61d10df531d29af9d52b.gif",
+    "static/media/apple-pie.gif": "/demowebapptelegram/static/media/apple-pie.742c6dbebc22899d904e.gif",
+    "static/media/ice-cream.gif": "/demowebapptelegram/static/media/ice-cream.4b69c9ad12759ef47271.gif",
+    "static/media/salad.gif": "/demowebapptelegram/static/media/salad.301e9faeade9acb39333.gif",
+    "static/media/cake.gif": "/demowebapptelegram/static/media/cake.4f8ec51ac7628359ccc5.gif",
+    "static/media/package.gif": "/demowebapptelegram/static/media/package.065b5f610dc749b6b1c2.gif",
+    "static/media/pancakes.gif": "/demowebapptelegram/static/media/pancakes.a847d7c0c083c6194abe.gif",
+    "static/media/donut.png": "/demowebapptelegram/static/media/donut.93c8fbcac808ba8ca6e8.png",
+    "static/media/salad.png": "/demowebapptelegram/static/media/salad.7b717a2cdc469061b601.png",
+    "static/media/noodle.png": "/demowebapptelegram/static/media/noodle.51b14ad2251c12039959.png",
+    "static/media/ice-cream.png": "/demowebapptelegram/static/media/ice-cream.eb1a0964a55702e1739d.png",
+    "static/media/cake.png": "/demowebapptelegram/static/media/cake.054d591b422267af5969.png",
+    "static/media/apple-pie.png": "/demowebapptelegram/static/media/apple-pie.2753427a2474fead2959.png",
+    "static/media/package.png": "/demowebapptelegram/static/media/package.1dbaf7dbbcc5ff92cbdb.png",
+    "static/media/drink.png": "/demowebapptelegram/static/media/drink.38938d75055dc1351e3d.png",
+    "static/media/pancakes.png": "/demowebapptelegram/static/media/pancakes.68d3b0fd2d3942e6fd1f.png",
     "index.html": "/demowebapptelegram/index.html",
-    "main.ad9471f7.css.map": "/demowebapptelegram/static/css/main.ad9471f7.css.map",
-    "main.6c6700d8.js.map": "/demowebapptelegram/static/js/main.6c6700d8.js.map",
+    "main.a285acd6.css.map": "/demowebapptelegram/static/css/main.a285acd6.css.map",
+    "main.99c69b53.js.map": "/demowebapptelegram/static/js/main.99c69b53.js.map",
     "787.66c93ffb.chunk.js.map": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad9471f7.css",
-    "static/js/main.6c6700d8.js"
+    "static/css/main.a285acd6.css",
+    "static/js/main.99c69b53.js"
   ]
 }
