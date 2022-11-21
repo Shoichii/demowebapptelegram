@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/demowebapptelegram/static/css/main.a8581a0d.css",
-    "main.js": "/demowebapptelegram/static/js/main.acf03543.js",
+    "main.js": "/demowebapptelegram/static/js/main.b74ffb9f.js",
     "static/js/787.66c93ffb.chunk.js": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js",
-    "static/media/Flan.gif": "/demowebapptelegram/static/media/Flan.3b2cbf0c02f42d4ff217.gif",
-    "static/media/Burger.gif": "/demowebapptelegram/static/media/Burger.67cecf4901bc5d17316f.gif",
-    "static/media/Icecream.gif": "/demowebapptelegram/static/media/Icecream.ccbaebbb1d9c20f26a4b.gif",
-    "static/media/Tako.gif": "/demowebapptelegram/static/media/Tako.c828b8042a68a8624959.gif",
-    "static/media/Popcorn.gif": "/demowebapptelegram/static/media/Popcorn.da841a939c13a3d08372.gif",
-    "static/media/Coke.gif": "/demowebapptelegram/static/media/Coke.fd84b834eb7a3b3e6596.gif",
-    "static/media/Pizza.gif": "/demowebapptelegram/static/media/Pizza.e4e0c4a6f18e12a083ac.gif",
-    "static/media/Cake.gif": "/demowebapptelegram/static/media/Cake.ea1b46a436110db69bf0.gif",
+    "static/media/Burger.gif": "/demowebapptelegram/static/media/Burger.ec0014b6e45fa7922833.gif",
+    "static/media/Flan.gif": "/demowebapptelegram/static/media/Flan.01ad36a02cf6a51964f6.gif",
+    "static/media/Icecream.gif": "/demowebapptelegram/static/media/Icecream.2f6e99e5442283e29541.gif",
+    "static/media/Popcorn.gif": "/demowebapptelegram/static/media/Popcorn.909d90d70899bb63db0d.gif",
+    "static/media/Tako.gif": "/demowebapptelegram/static/media/Tako.c99e646b5d9a69c5a9c0.gif",
+    "static/media/Coke.gif": "/demowebapptelegram/static/media/Coke.5535a39d0ed38e831917.gif",
+    "static/media/Cake.gif": "/demowebapptelegram/static/media/Cake.6c3a8379f4167a121200.gif",
+    "static/media/Pizza.gif": "/demowebapptelegram/static/media/Pizza.471405738c5fc4b9b997.gif",
     "static/media/Tako.png": "/demowebapptelegram/static/media/Tako.11c7bf981978f09207ce.png",
     "static/media/Burger.png": "/demowebapptelegram/static/media/Burger.f919c6d8857c648044d2.png",
     "static/media/Pizza.png": "/demowebapptelegram/static/media/Pizza.784b9f56f028afc7ec40.png",
@@ -20,11 +20,11 @@
     "static/media/Cake.png": "/demowebapptelegram/static/media/Cake.f6eb4e910071f6bf837a.png",
     "index.html": "/demowebapptelegram/index.html",
     "main.a8581a0d.css.map": "/demowebapptelegram/static/css/main.a8581a0d.css.map",
-    "main.acf03543.js.map": "/demowebapptelegram/static/js/main.acf03543.js.map",
+    "main.b74ffb9f.js.map": "/demowebapptelegram/static/js/main.b74ffb9f.js.map",
     "787.66c93ffb.chunk.js.map": "/demowebapptelegram/static/js/787.66c93ffb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8581a0d.css",
-    "static/js/main.acf03543.js"
+    "static/js/main.b74ffb9f.js"
   ]
 }
